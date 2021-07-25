@@ -1,0 +1,10 @@
+a = float(input("Please input the first number : "))
+b = float(input("Please input the second number : "))
+resultSum = a + b
+resultMinus = a - b
+resultMultiple = a * b
+resultDivine = a / b
+print(a,"+",b,"=",resultSum)
+print(a,"-",b,"=",resultMinus)
+print(a,"*",b,"=",resultMultiple)
+print(a,"/",b,"=",resultDivine)
